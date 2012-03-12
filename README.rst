@@ -17,3 +17,5 @@ Notes
   workshop, you can use `landslide <https://github.com/adamzap/landslide>`_
   and convert the ``rst`` file.
 
+* **Nick slides**: if you're feeling adventurous and want to investigate latex in addition to R then check out the `wikibook <http://en.wikibooks.org/wiki/LaTeX>`_. Otherwise, the PDF will open just fine :) 
+
