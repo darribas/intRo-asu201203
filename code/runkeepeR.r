@@ -65,5 +65,5 @@ data <- data.frame('A'=rnorm(length(xys)), 'B'=rnorm(length(xys)))
 sdf <- SpatialPointsDataFrame(xys, data)
 # If we want to save the coordinates as a point shapefile, there are
 # several ways to do it. A very easy one is:
-shp <- writeShapeSpatial(sdf)
+shp <- writeSpatialShape(sdf, 'example_shape')
 
