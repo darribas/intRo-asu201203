@@ -10,3 +10,10 @@ Authors
 - Dani Arribas-Bel <darribas@asu.edu>
 - Nicholas Malizia <nmalizia@asu.edu>
 
+Notes
+=====
+
+* **Dani slides**: if you want to obtain the html version we used in the
+  workshop, you can use `landslide <https://github.com/adamzap/landslide>`_
+  and convert the ``rst`` file.
+

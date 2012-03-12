@@ -20,7 +20,7 @@ library(OpenStreetMap)
 
 # Now, assuming your working directory is in the same folder as the csv, we
 # can read it in (we also get rid of the column "nothing" to make it simpler):
-link <- 'tracking.csv'
+link <- '../data/tracking.csv'
 xys <- read.csv(link)
 xys$nothing <- NULL
 # We need to tell R what column is latitude and which is longitude
